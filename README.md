@@ -33,18 +33,11 @@
 
 ---
 
-### 🖼️ Screenshots & Showcase
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e5767c45-5af9-4f96-97e7-fd01ade26ce3" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/62f39ea5-a9dc-4d15-9669-a1b24a9a4f6b" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0a4db2e-62fe-447e-97b8-82fb5e545e21" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d66e6289-6b9d-4c24-91c7-108bff0b4ff4" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9507bf1c-00c3-41cb-9f64-2c7d96d3809a" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6455f7da-a8e5-4211-bfb6-3cf79f8357fe" />
-
+## 🖼️ Screenshots & Showcase
 
 <div align="center">
 
-#### Main Desktop Overview
+### Main Desktop Overview
 <img src="https://raw.githubusercontent.com/Brave-Ayaan/dotfiles/main/assets/desktop.png" alt="Desktop Overview" width="95%" style="border-radius: 8px;">
 
 <br><br>
@@ -53,8 +46,61 @@
   <tr>
     <td width="50%" align="center">
       <b>LazyVim & Kitty</b><br><br>
-      <img src="https://raw.githubusercontent.com/Brave-Ayaan/dotfiles/main/assets/editor.png" alt="LazyVim Setup" width="100%" style="border-radius: 6px;">
+      <img src="https://raw.githubusercontent.com/Brave-Ayaan/dotfiles/main/assets/editor.png" alt="LazyVim Setup" width="100%">
     </td>
     <td width="50%" align="center">
       <b>Yazi File Manager</b><br><br>
-      <img src="https://raw.githubusercontent.com/Brave-Ayaan/dotfiles/main/assets/yazi.png" alt="Yazi TUI" width="100%" style="border-radius: 6px;">
+      <img src="https://raw.githubusercontent.com/Brave-Ayaan/dotfiles/main/assets/yazi.png" alt="Yazi TUI" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <b>Fuzzel Launcher</b><br><br>
+      <img src="https://raw.githubusercontent.com/Brave-Ayaan/dotfiles/main/assets/fuzzel.png" alt="Fuzzel Launcher" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <b>Qutebrowser</b><br><br>
+      <img src="https://raw.githubusercontent.com/Brave-Ayaan/dotfiles/main/assets/browser.png" alt="Qutebrowser" width="100%">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ Minimal Toolchain Overview
+
+> [!NOTE]
+> Strictly built for speed and minimalism. Everything runs cleanly via **XBPS** and `runit`, utilizing **Niri**'s scrollable-tiling Wayland compositor alongside modal/vim-driven applications.
+
+<details>
+<summary><b>📋 Software Breakdown (Click to expand)</b></summary>
+
+<br>
+
+| Component | Software | Description |
+| :--- | :--- | :--- |
+| **OS** | [Void Linux](https://voidlinux.org/) | Rolling distribution (`x86_64`) |
+| **Init System** | `runit` | Fast and lightweight service supervision |
+| **Compositor / WM** | [Niri](https://github.com/YaLteR/niri) | Scrollable-tiling Wayland compositor |
+| **Terminal** | [Kitty](https://sw.kovidgoyal.net/kitty/) | GPU-accelerated terminal emulator |
+| **Editor** | [LazyVim](https://www.lazyvim.org/) | Neovim framework configured for fast editing |
+| **Browser** | [qutebrowser](https://qutebrowser.org/) | Vim-bound, minimalist Python browser |
+| **File Manager** | [Yazi](https://github.com/sxyazi/yazi) | Async TUI file manager written in Rust |
+| **Launcher** | [Fuzzel](https://codeberg.org/dnkl/fuzzel) | Lightweight Wayland application launcher |
+| **Bar** | [Waybar](https://github.com/Alexays/Waybar) | Customizable status bar |
+| **Fallback WM** | [Sway](https://swaywm.org/) | i3-compatible Wayland compositor |
+
+</details>
+
+---
+
+<p align="center">
+  <a href="https://github.com/Brave-Ayaan/dotfiles/stargazers">
+    <img src="https://img.shields.io/github/stars/Brave-Ayaan/dotfiles?style=for-the-badge&color=478061&logo=github" alt="Stars">
+  </a>
+  <a href="https://github.com/Brave-Ayaan/dotfiles/commits/main">
+    <img src="https://img.shields.io/github/last-commit/Brave-Ayaan/dotfiles?style=for-the-badge&color=478061&logo=git" alt="Last Commit">
+  </a>
+</p>
