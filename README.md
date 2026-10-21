@@ -36,9 +36,15 @@
 ## 🖼️ Screenshots & Showcase
 
 <div align="center">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8be29640-ca31-4084-817f-5f240a03d2f8" />
 
 ### Main Desktop Overview
 <img src="https://raw.githubusercontent.com/Brave-Ayaan/dotfiles/main/assets/desktop.png" alt="Desktop Overview" width="95%" style="border-radius: 8px;">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f125162-699b-4baa-b89d-383f14621930" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4360e23a-1f45-4f8a-95d0-036c9c249262" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c75ae4f-e3de-4c13-baaa-496190774e23" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26094eb3-247e-4a1c-a952-81fa50e7f590" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4fbf09f7-b6ce-4c47-b691-b46982b053a0" />
 
 <br><br>
 
