@@ -29,26 +29,32 @@
   <img src="https://img.shields.io/badge/Bar-Waybar-00A8F0?style=for-the-badge&logo=wayland&logoColor=white" alt="Waybar" />
 </p>
 
----
-
-<!-- Screenshot / Showcase Banner -->
-<img src="https://raw.githubusercontent.com/Brave-Ayaan/dotfiles/main/assets/screenshot.png" alt="Desktop Screenshot" width="95%" style="border-radius: 8px;">
-
 </div>
 
 ---
 
-### 🛠️ Minimal Toolchain Overview
+### 🖼️ Screenshots & Showcase
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e5767c45-5af9-4f96-97e7-fd01ade26ce3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/62f39ea5-a9dc-4d15-9669-a1b24a9a4f6b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0a4db2e-62fe-447e-97b8-82fb5e545e21" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d66e6289-6b9d-4c24-91c7-108bff0b4ff4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9507bf1c-00c3-41cb-9f64-2c7d96d3809a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6455f7da-a8e5-4211-bfb6-3cf79f8357fe" />
 
-> [!NOTE]
-> Strictly built for speed and minimalism. Everything runs cleanly via **XBPS** and `runit`, utilizing **Niri**'s scrollable-tiling Wayland compositor alongside modal/vim-driven applications.
 
-<details>
-<summary><b>📋 Software Breakdown (Click to expand)</b></summary>
+<div align="center">
 
-<br>
+#### Main Desktop Overview
+<img src="https://raw.githubusercontent.com/Brave-Ayaan/dotfiles/main/assets/desktop.png" alt="Desktop Overview" width="95%" style="border-radius: 8px;">
 
-| Component | Software | Description |
-| :--- | :--- | :--- |
-| **OS** | [Void Linux](https://voidlinux.org/) | Rolling distribution (`x86_64`) |
-| **Init System
+<br><br>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <b>LazyVim & Kitty</b><br><br>
+      <img src="https://raw.githubusercontent.com/Brave-Ayaan/dotfiles/main/assets/editor.png" alt="LazyVim Setup" width="100%" style="border-radius: 6px;">
+    </td>
+    <td width="50%" align="center">
+      <b>Yazi File Manager</b><br><br>
+      <img src="https://raw.githubusercontent.com/Brave-Ayaan/dotfiles/main/assets/yazi.png" alt="Yazi TUI" width="100%" style="border-radius: 6px;">
