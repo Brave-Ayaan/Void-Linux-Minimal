@@ -91,11 +91,18 @@
 
 ---
 
+<div align="center">
+
+> [!IMPORTANT]
+> **🚀 Dotfiles Coming Soon!**  
+> Cleaned configurations, installation scripts, and stow structures are currently being packaged and will be published shortly.
+
+<br>
+
 <p align="center">
   <a href="https://github.com/Brave-Ayaan/dotfiles/stargazers">
     <img src="https://img.shields.io/github/stars/Brave-Ayaan/dotfiles?style=for-the-badge&color=478061&logo=github" alt="Stars">
   </a>
-  <a href="https://github.com/Brave-Ayaan/dotfiles/commits/main">
-    <img src="https://img.shields.io/github/last-commit/Brave-Ayaan/dotfiles?style=for-the-badge&color=478061&logo=git" alt="Last Commit">
-  </a>
 </p>
+
+</div>
