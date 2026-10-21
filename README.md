@@ -93,9 +93,11 @@
 
 <div align="center">
 
-> [!IMPORTANT]
-> **🚀 Dotfiles Coming Soon!**  
-> Cleaned configurations, installation scripts, and stow structures are currently being packaged and will be published shortly.
+<img src="https://img.shields.io/badge/Dotfiles-Coming_Soon_🚀-478061?style=for-the-badge&logo=git&logoColor=white" alt="Dotfiles Coming Soon" />
+
+<br><br>
+
+<p><i>Cleaned configurations, installation scripts, and GNU Stow structures are currently being packaged and will be published shortly.</i></p>
 
 <br>
 
